@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**ShadChad/ShadChad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning ... Python Automation and Web-Scrapping and Django & DRF
+- 📫 How to reach me: ... subedikushal47@gmail.com
+- 😄 Pronouns: ... He / Him / **Chad Guy**
+- ⚡ Fun fact: ... I'm 6'0
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Let's meet someday!**
+# :computer:  Kushal Sharma
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShadChad" alt="" /> </p>
+
+
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShadChad&show_icons=true&locale=en&layout=compact" alt="" /></p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShadChad&show_icons=true&locale=en" alt="" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShadChad&" alt="" /></p>
